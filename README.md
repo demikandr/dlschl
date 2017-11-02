@@ -28,3 +28,4 @@
 Все материалы школы, включая домашние задания будут размещены в открытом доступе.
 
 [Cсылка на форму регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdDHT2TZNdHW8G7eRplxNxhmyD5uTPcERNsJ1zAyeRn0yCSUg/viewform)
+
